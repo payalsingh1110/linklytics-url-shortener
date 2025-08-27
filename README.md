@@ -25,5 +25,5 @@ This project allows users to shorten long URLs, redirect to the original links, 
 
 ---
 
-## **Project Structure**
+
 
